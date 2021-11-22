@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/ReactRepo/static/css/main.0c2c3939.chunk.css",
-    "main.js": "/ReactRepo/static/js/main.00edabfc.chunk.js",
-    "main.js.map": "/ReactRepo/static/js/main.00edabfc.chunk.js.map",
+    "main.css": "/ReactRepo/static/css/main.cc166724.chunk.css",
+    "main.js": "/ReactRepo/static/js/main.20697f70.chunk.js",
+    "main.js.map": "/ReactRepo/static/js/main.20697f70.chunk.js.map",
     "runtime-main.js": "/ReactRepo/static/js/runtime-main.282cb446.js",
     "runtime-main.js.map": "/ReactRepo/static/js/runtime-main.282cb446.js.map",
     "static/css/2.383c0125.chunk.css": "/ReactRepo/static/css/2.383c0125.chunk.css",
-    "static/js/2.79db0717.chunk.js": "/ReactRepo/static/js/2.79db0717.chunk.js",
-    "static/js/2.79db0717.chunk.js.map": "/ReactRepo/static/js/2.79db0717.chunk.js.map",
+    "static/js/2.b80a1fc1.chunk.js": "/ReactRepo/static/js/2.b80a1fc1.chunk.js",
+    "static/js/2.b80a1fc1.chunk.js.map": "/ReactRepo/static/js/2.b80a1fc1.chunk.js.map",
     "index.html": "/ReactRepo/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ReactRepo/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.0c2c3939.chunk.css.map": "/ReactRepo/static/css/main.0c2c3939.chunk.css.map",
-    "static/js/2.79db0717.chunk.js.LICENSE.txt": "/ReactRepo/static/js/2.79db0717.chunk.js.LICENSE.txt",
+    "static/css/main.cc166724.chunk.css.map": "/ReactRepo/static/css/main.cc166724.chunk.css.map",
+    "static/js/2.b80a1fc1.chunk.js.LICENSE.txt": "/ReactRepo/static/js/2.b80a1fc1.chunk.js.LICENSE.txt",
     "static/media/character1.b8cf9c50.png": "/ReactRepo/static/media/character1.b8cf9c50.png",
+    "static/media/character10.f6fdbe59.png": "/ReactRepo/static/media/character10.f6fdbe59.png",
+    "static/media/character11.436dd33b.png": "/ReactRepo/static/media/character11.436dd33b.png",
+    "static/media/character12.93868536.png": "/ReactRepo/static/media/character12.93868536.png",
+    "static/media/character13.323d7c56.png": "/ReactRepo/static/media/character13.323d7c56.png",
+    "static/media/character14.e769e338.png": "/ReactRepo/static/media/character14.e769e338.png",
+    "static/media/character15.6290ce78.png": "/ReactRepo/static/media/character15.6290ce78.png",
+    "static/media/character16.68426aac.png": "/ReactRepo/static/media/character16.68426aac.png",
     "static/media/character2.6859fefd.png": "/ReactRepo/static/media/character2.6859fefd.png",
     "static/media/character3.a7f4a59a.png": "/ReactRepo/static/media/character3.a7f4a59a.png",
     "static/media/character4.1fd020f5.png": "/ReactRepo/static/media/character4.1fd020f5.png",
@@ -34,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.282cb446.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.79db0717.chunk.js",
-    "static/css/main.0c2c3939.chunk.css",
-    "static/js/main.00edabfc.chunk.js"
+    "static/js/2.b80a1fc1.chunk.js",
+    "static/css/main.cc166724.chunk.css",
+    "static/js/main.20697f70.chunk.js"
   ]
 }
