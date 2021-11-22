@@ -8,6 +8,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.f-family {
+    font-family: 'Poppins', sans-serif;
+}
+
 .navbar-light .navbar-brand a, .navbar-light .navbar-brand a:hover {
     font-style: normal;
     font-weight: 900;
@@ -58,8 +62,12 @@ body {
 
 }
 
-.psideb{
-    width: 30%;
+.psideb {
+    width: 100%;
+}
+
+.psideb h1 {
+    font-weight: bold;
 }
 
 .Csidebar {

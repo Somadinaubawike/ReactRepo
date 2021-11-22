@@ -24,9 +24,9 @@ const Psidebar = ({close}) => {
     ]);
 
     return (
-        <div className="bg-danger container psideb">
+        <div className="bg-light container psideb py-3 f-family">
             <div className="d-flex justify-content-end p-3">
-                <XSquareFill  onClick = {close}/>
+                <XSquareFill  onClick = {close} size={40} color="grey"/>
             </div>
             <div className="p-3"><h1>Planet Alpha</h1></div>
             <div className="p-3">
@@ -34,7 +34,7 @@ const Psidebar = ({close}) => {
                 <p>population</p>
                 <p>235</p>
             </div>
-            <div className="d-flex p-3">
+            <div className="d-flex p-3 justify-content-space-between">
                 <p>CHARACTER</p>
                 <PlusSquareFill className="justify-content-end"/>
             </div>
